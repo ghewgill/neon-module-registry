@@ -1,0 +1,6 @@
+name: compress
+version: 0.1.0
+authors: Neon Standard Library
+description: Compression and decompression (gzip, bzip2, lzma)
+repository: https://github.com/ghewgill/neon-compress
+license: MIT

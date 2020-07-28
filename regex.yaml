@@ -1,0 +1,6 @@
+name: regex
+version: 0.1.0
+authors: Neon Standard Library
+description: Regular expression library (libpcre)
+repository: https://github.com/ghewgill/neon-regex
+license: MIT

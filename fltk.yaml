@@ -1,0 +1,6 @@
+name: fltk
+version: 0.1.0
+authors: Neon Standard Library
+description: FLTK interface library
+repository: https://github.com/ghewgill/neon-fltk
+license: MIT

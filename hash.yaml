@@ -1,0 +1,6 @@
+name: hash
+version: 0.1.0
+authors: Neon Standard Library
+description: Various hash algorithms
+repository: https://github.com/ghewgill/neon-hash
+license: MIT

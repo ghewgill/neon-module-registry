@@ -1,0 +1,6 @@
+name: curses
+version: 0.1.0
+authors: Neon Standard Library
+description: Curses interface library
+repository: https://github.com/ghewgill/neon-curses
+license: MIT

@@ -1,0 +1,6 @@
+name: sdl
+version: 0.1.0
+authors: Neon Standard Library
+description: Simple DirectMedia Layer (SDL)
+repository: https://github.com/ghewgill/neon-sdl
+license: MIT

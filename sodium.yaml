@@ -1,0 +1,6 @@
+name: sodium
+version: 0.1.0
+authors: Neon Standard Library
+description: Sodium cryptographic library
+repository: https://github.com/ghewgill/neon-sodium
+license: MIT

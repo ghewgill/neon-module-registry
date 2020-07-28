@@ -1,0 +1,6 @@
+name: crypto
+version: 0.1.0
+authors: Neon Standard Library
+description: Cryptography functions
+repository: https://github.com/ghewgill/neon-crypto
+license: MIT
