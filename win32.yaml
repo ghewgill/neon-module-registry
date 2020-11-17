@@ -1,0 +1,6 @@
+name: win32
+version: 0.1.0
+authors: Neon Standard Library
+description: Win32 interface library
+repository: https://github.com/ghewgill/neon-win32
+license: MIT
