@@ -1,6 +1,6 @@
-name: http
+name: curl
 version: 0.1.0
 authors: Neon Standard Library
 description: HTTP functions using libcurl
-repository: https://github.com/ghewgill/neon-http
+repository: https://github.com/ghewgill/neon-curl
 license: MIT
