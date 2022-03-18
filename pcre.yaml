@@ -1,6 +1,6 @@
-name: regex
+name: pcre
 version: 0.1.0
 authors: Neon Standard Library
 description: Regular expression library (libpcre)
-repository: https://github.com/ghewgill/neon-regex
+repository: https://github.com/ghewgill/neon-pcre
 license: MIT
